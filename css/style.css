@@ -1,0 +1,34 @@
+body{
+background: #87ceeb;
+border:5px solid #48cd31;
+}
+
+h1{
+    color: white;
+    font-weight: bold;
+}
+
+p{
+    color: white;
+}
+
+.social-nav li:last-child a{
+    color: #48cd31;
+}
+
+.social-nav li:first-child a{
+    color: white;
+}
+
+.main-nav a{
+    color: #48cd31;
+}
+
+img{
+float: right;
+width: 180px;
+}
+
+body {
+    display: flow-root;
+}
